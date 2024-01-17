@@ -1,0 +1,9 @@
+.idea
+ckpt/
+output_gso/
+output_gso_renderer/
+
+# ignore cache
+__pycache__/
+*.pyc
+log*.txt
